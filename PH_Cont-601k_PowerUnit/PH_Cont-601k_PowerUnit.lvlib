@@ -25,7 +25,6 @@
 		<Item Name="PH_Cont-601k_PowerUnit.SM PSU condition check.vi" Type="VI" URL="../PH_Cont-601k_PowerUnit.SM PSU condition check.vi"/>
 		<Item Name="PH_Cont-601k_PowerUnit.Switch SM.vi" Type="VI" URL="../PH_Cont-601k_PowerUnit.Switch SM.vi"/>
 		<Item Name="PH_Cont-601k_PowerUnit.update Last Shot Service.vi" Type="VI" URL="../PH_Cont-601k_PowerUnit.update Last Shot Service.vi"/>
-		<Item Name="PH_Cont-601k_PowerUnit.write PSDB.vi" Type="VI" URL="../PH_Cont-601k_PowerUnit.write PSDB.vi"/>
 	</Item>
 	<Item Name="protected" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>

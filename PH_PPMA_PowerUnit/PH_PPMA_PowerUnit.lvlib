@@ -61,7 +61,6 @@ Last update: 18-JUN-2008</Property>
 		<Item Name="PH_PPMA_PowerUnit.src Switch GD Channel on.vi" Type="VI" URL="../PH_PPMA_PowerUnit.src Switch GD Channel on.vi"/>
 		<Item Name="PH_PPMA_PowerUnit.src Voltage.vi" Type="VI" URL="../PH_PPMA_PowerUnit.src Voltage.vi"/>
 		<Item Name="PH_PPMA_PowerUnit.src Wait for Shot Cmd.vi" Type="VI" URL="../PH_PPMA_PowerUnit.src Wait for Shot Cmd.vi"/>
-		<Item Name="PH_PPMA_PowerUnit.write PSDB.vi" Type="VI" URL="../PH_PPMA_PowerUnit.write PSDB.vi"/>
 	</Item>
 	<Item Name="protected" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
